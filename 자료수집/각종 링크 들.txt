@@ -1,0 +1,13 @@
+include
+
+extend
+
+generalization
+
+UML
+
+https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=phrack&logNo=80040424148
+일반화 관계 설명
+
+https://www.data.go.kr/data/15043378/openapi.do
+코로나 api
