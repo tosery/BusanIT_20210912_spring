@@ -1,0 +1,34 @@
+/* Components */
+/* Screens */
+/* Bootstrap */
+@import "bootstrap.css";
+
+.main__container{
+    display: flex;
+
+}
+
+.aside__left-banner{
+    display: block;
+    float: left;
+    width: 200px;
+    height: 600px;
+    background-color: orange;
+    margin: 5px;
+}
+
+.main__article{
+    display: flex;
+    width: 800px;
+    height: 150vh;
+    background-color: palegoldenrod;
+}
+
+.aside__right-banner{
+    display: flex;
+    width: 200px;
+    height: 600px;
+    background-color: orange;
+    float: right;
+}
+

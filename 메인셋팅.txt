@@ -1,0 +1,49 @@
+일정
+
+민욱씨: 토, 일 x(연락은 가능 오후 가능 할 수 있음)
+예은씨: 일x
+수진씨: 월, 화x (오후쯤은 가능 할 수 있음)
+
+1. o 비밀번호 일치여부 검증 o
+
+2. o 회원 프로필사진등록 profilepic 테이블
+이미지, update와 insert 트랜잭션단위
+AOP 실행시간 콘솔 로그 밀리초단위출력 x
+
+3. 회원탈퇴o 게시판도있을 삭제 x
+
+4. 갤러리 o pagination o
+
+5. REST o
+
+6. REST o
+
+웹소켓, 프론트작업(HT2ML,CSS), 홈컨트롤러&member컨트롤러 views + book마켓 기능분석
+
+1. 다같이 프론트작업
+2. 백앤드
+3. 웹소켓
+
+1. 웹소켓
+2. 프론트
+3. 백앤드
+
+메인검색
+width 803
+height 669
+
+헤드 
+width 1900
+height 70
+
+푸터
+width 1900
+height 510
+
+사진
+width 220
+height 159
+
+배너
+width 770
+height 117
