@@ -1,0 +1,17 @@
+타입스크립트
+
+1. 설치할 때
+node.js 와 yarn을 설치해둔다.
+cmd에서 npm install -g yarn 실행(node.js 설치하면 npm 명령 활성화된다)
+yarn -v 로 버전 확인하고
+
+Windows PowerShell을 관리자권한으로 실행한 후
+https://singa-korean.tistory.com/21
+
+링크내용대로 진행한다.(권한이 없어서 권한을 주는 명령)
+
+#2 Setting Typescript UP(강의 2분 29초)tsc 부분은 명령어를 약간 바꿔야한다.(우리는 npm설치했으므로 쌤은 yarn으로 설치)
+
+1)yarn global add typescript
+2)npm install typescript --save-dev
+3)npx tsc
